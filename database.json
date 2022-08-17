@@ -1,0 +1,108 @@
+{
+  "chocolates": [
+    {
+      "name": "Cocoa Chocolate Truffles",
+      "weight": "0.290",
+      "price": 34,
+      "likes": 13,
+      "photo": "https://chocolatecoveredkatie.com/wp-content/uploads/2021/12/Cocoa-Powder-Coconut-Milk-Chocolate-Truffles.jpg",
+      "id": 1
+    },
+    {
+      "name": "White Chocolate Truffles",
+      "weight": "0.300",
+      "price": 33,
+      "likes": 4,
+      "photo": "https://buildyourbite.com/wp-content/uploads/2020/11/white-chocolate-peanut-butter-balls-22-735x735.jpg",
+      "id": 2
+    },
+    {
+      "name": "Chocolate & Nut Truffles",
+      "weight": "0.300",
+      "price": 37,
+      "likes": 7,
+      "photo": "https://www.happyfoodstube.com/wp-content/uploads/2016/05/chocolate-walnut-truffles-recipe.jpg",
+      "id": 3
+    },
+    {
+      "name": "Coconut & Cream Truffles",
+      "weight": "0.400",
+      "price": 40,
+      "likes": 7,
+      "photo": "https://realhousemoms.com/wp-content/uploads/Coconut-Cream-Truffles-IG.jpg",
+      "id": 4
+    },
+    {
+      "name": "Choco & Coconut Truffles",
+      "weight": "0.450",
+      "price": 37,
+      "likes": 4,
+      "photo": "https://veenaazmanov.com/wp-content/uploads/2018/01/Coconut-Chocolate-Truffles3-1.jpg",
+      "id": 5
+    },
+    {
+      "name": "Choco & Raspberry Truffles",
+      "weight": "0.300",
+      "price": 40,
+      "likes": 4,
+      "photo": "https://www.eatloveeats.com/wp-content/uploads/2022/02/Raspberry-Dark-Chocolate-Truffles-Featured.jpg",
+      "id": 6
+    },
+    {
+      "name": "Lavender Chocolate Truffles",
+      "weight": "0.400",
+      "price": 38,
+      "likes": 4,
+      "photo": "https://www.tashasartisanfoods.com/blog/wp-content/uploads/2018/11/Lavender-Chocolate-Truffles-8.jpg",
+      "id": 7
+    },
+    {
+      "name": "Dark Chocolate Truffles",
+      "weight": "0.300",
+      "price": 40,
+      "likes": 5,
+      "photo": "https://www.snixykitchen.com/wp-content/uploads/2019/02/Dark-Chocolate-Honey-Walnut-Fig-Truffles-1.jpg",
+      "id": 8
+    },
+    {
+      "name": "Peanut Butter Cookie Truffles",
+      "weight": "0.300",
+      "price": 38,
+      "likes": 3,
+      "photo": "https://sugarspunrun.com/wp-content/uploads/2016/04/peanut-butter-balls-1-of-1.jpg",
+      "id": 9
+    },
+    {
+      "name": "Red Velvet Cake Truffles",
+      "weight": "0.400",
+      "price": 45,
+      "likes": 4,
+      "photo": "https://images.squarespace-cdn.com/content/v1/55045bd7e4b07d153dcc98de/02a85a68-7004-46ce-a230-b6d307f8c2ca/CK+Red+Velvet+Truffles_gluten-free.jpg",
+      "id": 10
+    },
+    {
+      "name": "Peanut Butter Pretzel Truffles",
+      "weight": "0.400",
+      "price": 42,
+      "likes": 5,
+      "photo": "https://healthyfitnessmeals.com/wp-content/uploads/2018/08/Peanut_Butter_Pretzel_Truffles_Square_0001.jpg",
+      "id": 11
+    },
+    {
+      "name": "Dark Chocolate Kahlua Coffee Truffles",
+      "weight": "0.450",
+      "price": 45,
+      "likes": 6,
+      "photo": "https://www.runningtothekitchen.com/wp-content/uploads/2016/03/Dark-Chocolate-Kahlua-Coffee-Bites-square-optimized.jpg",
+      "id": 12
+    },
+    {
+      "name": "Strawberry White Chocolate Truffles",
+      "weight": "0.350",
+      "price": 40,
+      "likes": 5,
+      "photo": "https://hips.hearstapps.com/hmg-prod/images/190322-strawberry-shortcake-048-1553696998.jpg",
+      "id": 13
+    }
+  ]
+}
